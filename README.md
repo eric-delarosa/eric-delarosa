@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an interpreter and workflow automation <br>👯 I’m looking to collaborate on backend projects <br>🌱 I’m currently learning Rust, Golang, and Web Frameworks<br>💬 Ask me about Rust, AI, and SCRPG<br>⚡ Fun fact about me is I'm a huge TTRPG nerd and I find ways to incorporate technology into my hobby
+🔭 I’m currently working on a fitness app <br>👯 I’m looking to collaborate on backend projects <br>🌱 I’m currently learning Rust, Golang, and Web Frameworks<br>💬 Ask me about Rust, AI, and SCRPG<br>⚡ Fun fact about me is I'm a TTRPG nerd and I try to find ways to incorporate technology into my hobbies
 
 
 ## 🌐 Socials:
